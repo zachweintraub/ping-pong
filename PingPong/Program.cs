@@ -11,7 +11,7 @@ namespace PingPong
       pingPong.SetUserInput(Console.ReadLine());
       if (!pingPong.CheckNumber())
       {
-        Console.WriteLine("Sorry, that's not a number.");
+        Console.WriteLine("Sorry, please enter a number greater than zero.");
         Main();
       }
       else

@@ -16,7 +16,15 @@ namespace PingPong
 
     public bool CheckNumber()
     {
-      return int.TryParse(UserInput, out int result);
+      if (int.TryParse(UserInput, out int result))
+      {
+        if (result > 0)
+        {
+          return true;
+        }
+        else return false;
+      }
+      else return false;
     }
 
     public string ConvertInput(int number)
