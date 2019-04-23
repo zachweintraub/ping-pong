@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.Tests.deps.json
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.Tests.runtimeconfig.json
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.Tests.dll
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.Tests.pdb
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.dll
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/bin/Debug/netcoreapp2.2/PingPong.pdb
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.dll
+/Users/Guest/Desktop/PingPong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.pdb
